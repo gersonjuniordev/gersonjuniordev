@@ -15,21 +15,13 @@
   </a>
 </div>
 
-<br>
 
-<div align="center">
-  <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>PowerShell</b></p>
-  
-  <div align="left">
 
-```ps1
 ## 📅 Daily Code Message
 <!-- DAILY-CODE-MESSAGE -->
-```
 
-  </div>
-</div>
+ 
+
 
 <br>
 
