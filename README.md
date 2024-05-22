@@ -10,16 +10,8 @@
 
 <div align="center">
   <p>I like these things:</p>
-  <a
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white).
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,js,html,androidstudio,aws,django,kotlin,tailwind,mongodb,mysql,sqlite,supabase" />
   </a>
 </div>
 
