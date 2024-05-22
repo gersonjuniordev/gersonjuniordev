@@ -1,0 +1,48 @@
+name: Daily Code Message
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Get Daily Code Message
+        id: get-message
+        run: |
+          # Define an array of messages
+          MESSAGES=("Code is like humor. When you have to explain it, it’s bad."
+                    "Programming isn't about what you know; it's about what you can figure out."
+                    "Code never lies, comments sometimes do."
+                    "Fix the cause, not the symptom."
+                    "Make it work, make it right, make it fast."
+                    "First, solve the problem. Then, write the code."
+                    "Experience is the name everyone gives to their mistakes."
+                    "In order to be irreplaceable, one must always be different.")
+          # Get the current date
+          DATE=$(date +%Y-%m-%d)
+          # Generate a random number based on the current date
+          INDEX=$(( ( RANDOM % ${#MESSAGES[@]} ) ))
+          # Get the message
+          MESSAGE=${MESSAGES[$INDEX]}
+          # Save the message to the output
+          echo "::set-output name=message::$MESSAGE"
+
+      - name: Update README
+        run: |
+          # Replace the placeholder in the README.md file
+          sed -i "s|<!-- DAILY-CODE-MESSAGE -->|$DATE: ${ { steps.get-message.outputs.message }}|" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update daily code message"
+          git push
