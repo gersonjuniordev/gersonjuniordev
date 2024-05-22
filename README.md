@@ -11,7 +11,7 @@
 <div align="center">
   <p>I like these things:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,js,html,androidstudio,aws,django,kotlin,tailwind,mongodb,mysql,sqlite,supabase" />
+    <img src="https://skillicons.dev/icons?i=java,react,js,html,androidstudio,aws,django,kotlin,tailwind,mongodb,mysql,sqlite,supabase,firebase,figma" />
   </a>
 </div>
 
