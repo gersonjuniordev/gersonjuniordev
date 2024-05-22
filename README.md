@@ -21,7 +21,7 @@
   <h1>👨‍💻 Daily code 👨‍💻</h1>
   <p>Today's daily code is in: <b>PowerShell</b></p>
   
-  <div align="left">
+  <div align="center">
 
 ```ps1
 Write-Host 'Hello, World!'
