@@ -15,23 +15,26 @@
   </a>
 </div>
 
-
-
-## 📅 Daily Code Message
-<!-- DAILY-CODE-MESSAGE -->
-
- 
-
-
 <br>
 
 <div align="center">
-<h1>📈 Statistics 📈</h1>
-  <p>Most used languages:</p>
-  <a href="https://github.com/gersonjuniordev" target="_blank">
-    <img src="https://github.com/gersonjuniordev/gersonjuniordev/blob/renders-output/metrics.plugin.languages.svg" alt="most used languages" width="600px">
-  </a>
+  <h1>👨‍💻 Daily code 👨‍💻</h1>
+  <p>Today's daily code is in: <b>PowerShell</b></p>
+  
+  <div align="left">
+
+```ps1
+Write-Host 'Hello, World!'
+```
+
+  </div>
 </div>
+
+<br>
+
+<br>
+
+
 
 <br>
 
