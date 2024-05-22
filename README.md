@@ -15,36 +15,4 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <h1>👨‍💻 Daily code 👨‍💻</h1>
-  <p>Today's daily code is in: <b>PowerShell</b></p>
-  
-  <div align="right">
-
-```ps1
-Write-Host 'Hello, World!'
-```
-
-  </div>
-</div>
-
-<br>
-
-<br>
-
-
-
-<br>
-
-<br>
-
-<div align="center">
-  <h1>🐍 Snakommits 🐍</h1>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gersonjuniordev/gersonjuniordev/snake-output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gersonjuniordev/gersonjuniordev/snake-output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gersonjuniordev/gersonjuniordev/snake-output/github-contribution-grid-snake.svg">
-    </picture>
 </div>
