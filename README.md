@@ -3,14 +3,21 @@
 </div>
 
 > 🧑‍💻 | My favorite language to program in is **Java**, but I also know **A lot of other languages**. In recent years, I've started studying the **React** framework and **Tailwind**.
+> 
 > 📱 | Initially, I learned **Java** and **C+++** using only **free ebooks** and a **cellphone**, and since then, I've been improving my skills.
 
 ***
 
 <div align="center">
   <p>I like these things:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,md,html,css,js,github,git,vscode,linux,ts,sass,react,vite,vercel,arduino" />
+  <a ## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) />
   </a>
 </div>
 
