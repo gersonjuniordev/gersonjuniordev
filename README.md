@@ -8,9 +8,7 @@
 
 ***
 
-<div align="center">
-  <p>I like these things:</p>
-  <a ## 💻 Tech Stack
+## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -18,8 +16,6 @@
 ![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-  </a>
-</div>
 
 <br>
 
