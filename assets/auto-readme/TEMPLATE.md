@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olar, i am <!-- AUTOREADME:NAME --></h1>
+  <h1>👋 Hello, I am <!-- AUTOREADME:NAME --></h1>
 </div>
 
 > 🧑‍💻 | My favorite language to program in is **Python**, but I also know **JavaScript**. In recent years, I've started studying the **React** framework and **TypeScript**.
