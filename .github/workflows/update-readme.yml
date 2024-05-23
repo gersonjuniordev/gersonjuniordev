@@ -1,4 +1,4 @@
-name: Update Daily Message
+name: Update Readme
 
 on:
   schedule:
