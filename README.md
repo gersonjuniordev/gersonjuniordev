@@ -13,6 +13,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,react,js,html,androidstudio,nodejs,django,kotlin,tailwind,mongodb,mysql,sqlite,supabase,firebase,figma," />
   </a>
+
+## 📅 Daily Code Message
+<!-- DAILY-CODE-MESSAGE -->
+  
 </div>
 
 ![snake gif](https://github.com/gersonjuniordev/gersonjuniordev/blob/output/github-contribution-grid-snake.gif)
