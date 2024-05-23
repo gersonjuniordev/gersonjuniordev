@@ -14,9 +14,13 @@
     <img src="https://skillicons.dev/icons?i=java,react,js,html,androidstudio,nodejs,django,kotlin,tailwind,mongodb,mysql,sqlite,supabase,firebase,figma," />
   </a>
 
-## 📅 Daily Code Message
-<!-- DAILY-CODE-MESSAGE -->
-  
+  def generate_random_code():
+    import random
+    return f"Random number: {random.randint(1, 100)}"
+
+print(generate_random_code())
+
+
 </div>
 
 ![snake gif](https://github.com/gersonjuniordev/gersonjuniordev/blob/output/github-contribution-grid-snake.gif)
