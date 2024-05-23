@@ -1,0 +1,41 @@
+name: Update Daily Message
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch a random programming quote
+        id: fetch_quote
+        run: |
+          curl -s https://programming-quotes-api.herokuapp.com/quotes/random | jq -r '.en' > quote.txt
+          cat quote.txt
+
+      - name: Update README
+        id: update_readme
+        run: |
+          quote=$(cat quote.txt)
+          echo "Fetched quote: $quote"
+          sed -i '/<!-- DAILY-CODE-MESSAGE -->/!b;n;c\'"$quote"'' README.md
+          cat README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update daily message'
+          git push
