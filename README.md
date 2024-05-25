@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a ecommerce website**
+ 🔭 I’m currently working on **Rent Car App**
  
  🌱 I’m currently learning **Tailwind and React.js**
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 It's Snake TIME! 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
