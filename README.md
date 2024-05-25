@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/gersonjuniordev/gersonjuniordev/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The famous upside-down kiss between Peter Parker and Mary Jane Watson was difficult for Tobey Maguire to shoot as water kept running into his nose.**
 
  </div>
  
