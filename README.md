@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Rent Car App**
+ 🔭 I’m currently working on **Business Management and Work Safety Web App**
  
- 🌱 I’m currently learning **Tailwind and React.js**
+ 🌱 I’m currently learning **React**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/gersonjuniordev/gersonjuniordev/issues)**
 
