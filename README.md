@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      データアナリスト | フルスタック開発者 | IT技術者
     </b>
       <br>
       Hi there! I'm Gerson Junior
