@@ -1,9 +1,9 @@
 <div align="center">
-  <h2>Olá, sou Gerson Junior! <img src="https://media.giphy.com/media/Q8tT3L6x5TjB6/giphy.gif" width="50"></h2>
+  <h2>Olá, sou Gerson Junior! <img src="https://media.giphy.com/media/LmNwrBhejkK9xFWlQL/giphy.gif" width="50"></h2>
 </div>
 
 <p align="center">
-  <em>Data Analyst na <a href="http://www.unb.br">Colymar Engenharia Ltda</a><img src="https://media.giphy.com/media/Q8tT3L6x5TjB6/giphy.gif" width="30"></em>
+  <em>Data Analyst na <a href="http://www.unb.br">Colymar Engenharia Ltda</a><img src="https://media.giphy.com/media/LmNwrBhejkK9xFWlQL/giphy.gif" width="30"></em>
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/l0IxYR4s2161jN3m0/giphy.gif" width="50"> Um pouco mais sobre mim...
+### <img src="https://media.giphy.com/media/qgKj279oB80h2/giphy.gif" width="50"> Um pouco mais sobre mim...
 
 ```javascript
 const gerson = {
