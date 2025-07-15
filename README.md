@@ -1,127 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000"/>
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<div align="center">
-  <samp>
-    <b>
-      データアナリスト | IT技術者 | フルスタック開発者
-    </b>
-      <br>
-      Hi there! I'm Gerson Junior
-      <br>
-  </samp>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2gersonjuniordev&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://imgur.com/gallery/ninja-QEIpGEC" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/gersonjuniordev-black" />
-</div>
+[![Linkedin: gersonjuniordev](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gersonjuniordev/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub gersonjuniordev](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/gersonjuniordev)
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A4D4B&width=435&lines=I+am+from+Brazil;I+am+also+a+IT+Technician" alt="Typing SVG"/>
-</div>
 
-<br>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python, JavaScript],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Alden Technology Ltda",
+                        speaker: "Latinity",
+                        mentor: "Myself"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=gersonjuniordev&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gersonjuniordev&theme=algolia"
-  />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=gersonjuniordev&theme=algolia&card_width=885"
-  />
-  </div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
-</div>
-
-<br>
-
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gersonjunior125@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gerj_xrn)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gersonjuniordev/)
-  
-</div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-
-</div>
-
-##
-
-</details>
-
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
+---
