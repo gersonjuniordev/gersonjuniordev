@@ -20,7 +20,7 @@
   <img src="https://i.giphy.com/ZDCLEjA7mA266BSggO.webp" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/gersonjuniordev-black" />
 </div>
 
 <div align="center" width="100%">
