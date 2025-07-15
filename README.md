@@ -17,7 +17,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/SGR1Rrh.gif" width="200">
+  <img src="https://imgur.com/nk8bxPB" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-black" />
