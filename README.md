@@ -3,8 +3,8 @@
 <p><em>Data Analyst at <a href="http://www.unb.br">Colymar Engenharia Ltda</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: gersonjuniordev](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gersonjuniordev/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub gersonjuniordev](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/gersonjuniordev)
+[![Linkedin: gersonjuniordev](https://img.shields.io/badge/-gersonjuniordev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gersonjuniordev/)](https://www.linkedin.com/in/gersonjuniordev/)
+[![GitHub gersonjuniordev](https://img.shields.io/github/followers/gersonjuniordev?label=follow&style=social)](https://github.com/gersonjuniordev)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
