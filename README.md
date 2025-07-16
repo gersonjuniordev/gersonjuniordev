@@ -35,7 +35,7 @@
         <b>More Info</b>
       </samp>
   </summary>
-  
+
   <br>
 
 <div align="center">
@@ -43,13 +43,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/?username=gersonjuniordev&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
   />
   <br>
   <br>
@@ -80,7 +80,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+
 </div>
 
 <br>
@@ -99,12 +99,13 @@
   [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gersonjunior125@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gerj_xrn)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gersonjuniordev/)
-  
+
 </div>
 
 <div align="center">
 
 <p align="center">
+    
   </p>
 
 </div>
