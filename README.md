@@ -49,7 +49,7 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev"
   />
   <br>
   <br>
