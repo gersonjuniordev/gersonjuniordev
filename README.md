@@ -43,7 +43,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=gersonjuniordev&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjuniordev&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
   />
   <img
     height=165
